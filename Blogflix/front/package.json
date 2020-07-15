@@ -1,0 +1,70 @@
+{
+  "name": "front",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^18.0.0",
+    "@ckeditor/ckeditor5-react": "^2.1.0",
+    "@ckeditor/ckeditor5-upload": "^18.0.0",
+    "@material-ui/core": "^4.9.14",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "antd": "^4.1.4",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.5.0",
+    "html-react-parser": "^0.10.3",
+    "infinite-react-carousel": "^1.2.11",
+    "js-cookie": "^2.2.1",
+    "prop-types": "^15.7.2",
+    "quill-image-drop-module": "^1.0.3",
+    "quill-image-resize": "^3.0.9",
+    "quill-image-resize-module": "^3.0.0",
+    "quill-image-resize-module-react": "^3.0.0",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.0.1",
+    "react-bootstrap-carousel": "^4.0.6",
+    "react-dom": "^16.13.1",
+    "react-edit-inline2": "^1.0.2",
+    "react-google-login": "^5.1.3",
+    "react-html-parser": "^2.0.2",
+    "react-multi-carousel": "^2.5.5",
+    "react-quill": "^1.3.5",
+    "react-redux": "^7.2.0",
+    "react-resolver": "^3.1.2",
+    "react-router": "^5.1.2",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.1",
+    "react-share": "^4.2.0",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.3.0",
+    "unique-slug": "^2.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "react-edit-inline": "^1.0.8",
+    "uglifyjs-webpack-plugin": "^2.2.0"
+  }
+}
